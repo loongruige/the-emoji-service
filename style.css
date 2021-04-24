@@ -5,6 +5,8 @@ h1 {
 
 .box{
   box-shadow: 2px black;
-  border: 3px f4f4f4;
-  border-radius: 2px
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
