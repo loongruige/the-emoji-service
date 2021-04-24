@@ -13,10 +13,11 @@ h1 {
 }
 
 img {
+  background: #00ffa9;
   display: block;
   margin-left: auto;
   margin-right: auto;
   float: center;
-  box-shadow: 3px 3px 10px black;
+  box-shadow: 3px 3px 10px #1eb381;
   width: %50;
 }
