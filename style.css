@@ -6,7 +6,8 @@ h1 {
 .box{
   box-shadow: 2px black;
   width: 300px;
-  border: 15px solid green;
+  border: 3px solid green;
   padding: 50px;
+  border-radius: 5px;
   margin: 20px;
 }
