@@ -1,0 +1,10 @@
+h1 {
+  font-family: helvetica sans-serif;
+  text-align: center;
+}
+
+.box{
+  box-shadow: 2px black;
+  border: 3px f4f4f4;
+  border-radius: 2px
+}
