@@ -4,6 +4,7 @@ h1 {
 }
 
 .box{
+  float: top;
   display: inline-block;
   box-shadow: 2px 2px 10px black;
   width: 300px;
